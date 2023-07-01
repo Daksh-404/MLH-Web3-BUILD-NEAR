@@ -7,7 +7,7 @@ node_modules
 
 # build
 **/out
-**/dist
+# **/dist
 **/node_modules
 
 # keys
