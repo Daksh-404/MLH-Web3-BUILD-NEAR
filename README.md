@@ -1,6 +1,9 @@
 # EzyNFT
 
-![logo](./frontend/assets/new-logo.png)
+Power of Web3 with a few quips!
+
+<img width="959" alt="originalEzyNFT" src="https://github.com/Daksh-404/MLH-Web3-BUILD-NEAR/assets/55024919/9d56137a-c309-4014-919f-0da3cb9f93f6">
+
 ## 🤔Problem Statement
 
 - Cryptocurrency and blockchain technology can be daunting for many potential users, as indicated by Kantar’s survey, which found that 29% of Indians are not familiar with cryptocurrencies and 45% find them too complicated to understand.
@@ -10,7 +13,7 @@
 
 ## ⚽Goal
 
-The goal is to eliminate the barriers that have traditionally hindered crypto's growth and adoption, thereby making it more accessible to a wider range of people, at the same time ensuring privacy and security.
+The goal is to eliminate the barriers that have traditionally hindered crypto's growth and adoption, thereby making it more accessible to a wider range of people while ensuring privacy and security.
 
 ## 🔒Assumption
 
