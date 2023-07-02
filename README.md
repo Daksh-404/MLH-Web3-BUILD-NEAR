@@ -1,5 +1,6 @@
 # EzyNFT
 
+![logo](./frontend/assets/new-logo.png)
 ## 🤔Problem Statement
 
 - Cryptocurrency and blockchain technology can be daunting for many potential users, as indicated by Kantar’s survey, which found that 29% of Indians are not familiar with cryptocurrencies and 45% find them too complicated to understand.
