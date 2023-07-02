@@ -110,3 +110,8 @@ We plan to build a full-fledged chatbot completely embedded into the NEAR blockc
 4. [9-12 weeks]: Developing and embedding the entire front-end on NEAR, and removing Voiceflow’s UI/UX renderer.
 
 We will be using our 20,000 NEAR Horizon Credits to create a liquidity pool😅😅and would like to integrate it into the ecosystem as an automated market maker(AMM). The marking will be against Ethereum - ETH/NEAR Liquidity Pool.
+
+## ❤️ Team
+-Daksh Gupta - 4th year undergraduate at Netaji Subhas University of Technology. Have previously worked as a software engineering intern at Google. Noob😅in Blockchain technologies, but curious enough! Have been involved with 2 startups in the past in the education and social networking domain respectively.
+
+-Pranay Kothari -4th year undergraduate at Netaji Subhas University of Technology. Have previously worked as a software engineering intern at JPMC London. Bagged the ETH Fellowship '23, and have worked with many developers in the web3 ecosystem.
