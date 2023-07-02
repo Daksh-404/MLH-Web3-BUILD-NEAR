@@ -60,15 +60,15 @@ function signedOutFlow() {
 // Displaying the signed in flow container and fill in account-specific data
 function signedInFlow() {
   (function(d, t) {
-    var v = d.createElement(t), s = d.getElementsByTagName(t)[0];
-    v.onload = function() {
-      window.voiceflow.chat.load({
-        verify: { projectID: '6495a7edcfac400006242147' },
-        url: 'https://general-runtime.voiceflow.com',
-        versionID: 'production'
-      });
-    }
-    v.src = "https://cdn.voiceflow.com/widget/bundle.mjs"; v.type = "text/javascript"; s.parentNode.insertBefore(v, s);
+      var v = d.createElement(t), s = d.getElementsByTagName(t)[0];
+      v.onload = function() {
+        window.voiceflow.chat.load({
+          verify: { projectID: '6495a7edcfac400006242147' },
+          url: 'https://general-runtime.voiceflow.com',
+          versionID: 'production'
+        });
+      }
+      v.src = "https://cdn.voiceflow.com/widget/bundle.mjs"; v.type = "text/javascript"; s.parentNode.insertBefore(v, s);
   })(document, 'script');
 
   document.querySelector('#signed-out-flow').style.display = 'none';
