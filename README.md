@@ -62,7 +62,7 @@ The team at EzyNFT shares a common enthusiasm for blockchain technology and its 
 
 ## 🤑Business Model
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f2017903-059f-4119-96d7-65bfb4fa82c8/Untitled.png)
+![Business Model](business_model.png)
 
 We plan to use a Fee-For-Service model, which is also called Paid Subscription Model. We will be providing premium features to the users who subscribe to our services. This kind of model is also used by Google, Spotify and many more successful companies, thus it is reliable and scalable.
 
